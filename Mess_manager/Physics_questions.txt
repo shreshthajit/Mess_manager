@@ -1,0 +1,26 @@
+﻿Q. 01. A ball hits a wall horizontally at 7m/s. It rebounds horizontally at 4m/s. The ball is in contact with the wall for 0.02s. What is the acceleration of the ball?
+
+Q. 02. A car is travelling at 40 m/s along a road. A child runs out into the road 50 m ahead and the car driver steps on the brake pedal. What must the car’s deceleration be if the car is to stop just before it reaches the child?
+
+Q 03. If a car travels first 40km at speed of 20km/h and next 80km at a speed of 40km/h. What is the average speed of car during journey?
+
+Q.04. A police jeep is chasing velocity of 45 km/h. A thief in another jeep moving with a velocity of 153 km/h. police fires a bullet with muzzle velocity of 180 m/s the velocity it will strike the car of the thief is?
+
+Q. 05.A bullet hits a Sand box with a velocity of 20 m/s and penetrates it up to a distance of 6 cm. Find the deceleration of the bullet in the sand box.
+
+Q. 06.An Aeronautics engineer is designing the runway for an airport. Of the planes that will use the airport, the lowest acceleration rate is likely to be 3 m/s2. The take off speed for this plane will be 65 m/s. Assuming this minimum acceleration, what is the minimum allowed length for the runway?
+
+Q. 07.A bullet leaves a rifle with a muzzle velocity of 521 m/s. While accelerating through the barrel of the riffle, the bullet moves a distance of 0.840 m. Determine the acceleration of the bullet (assume a uniform acceleration).
+
+Q. 08.A baseball is popped straight up into the air and has a hang- time of 6.25 s. Determine the height to which the ball rises before it reaches its peak. (Hint: the time to rise to the peak is one- half the total hang-time.)
+
+Q. 09.An air-plane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance travelled before take off.
+
+Q. 10.A Truck covers 30km at a uniform speed of 30km/hr. what should be its speed for the next 90km if the average speed for the entire journey is 60km/h?
+
+Q. 11.A train is travelling at a speed of 60 km/ h. Brakes are applied so as to produce a uniform acceleration of −0.5 m /s2. Find how far the train will go before it is brought to rest.
+
+Q. 12.A cyclist moving on a circular track of radius 50m completes one revolution in 4 minutes. What is his
+(a) average speed
+(b) average velocity in one full revolution?
+ 
